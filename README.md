@@ -75,6 +75,12 @@ Dashboard includes:
 
 ---
 
+## 📈 Dashboard Preview
+
+<img width="1717" height="1036" alt="image" src="https://github.com/user-attachments/assets/dc8e4c35-810b-465c-b713-d1d1be9e0581" />
+
+---
+
 ## 📈 Business Recommendations
 - Launch targeted subscription growth campaigns  
 - Build loyalty reward programs  
